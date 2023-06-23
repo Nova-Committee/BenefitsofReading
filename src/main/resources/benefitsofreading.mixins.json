@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "committee.nova.benefitsofreading.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "benefitsofreading.refmap.json",
+  "mixins": [
+    "MixinChiseledBookShelfBlock"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

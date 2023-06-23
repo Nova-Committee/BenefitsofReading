@@ -1,0 +1,13 @@
+modLoader = "lowcodefml"
+loaderVersion = "[46,)"
+license = "GNU AGPL 3.0"
+[[mods]]
+modId = "benefitsofreading"
+version = "${file.jarVersion}"
+displayName = "BenefitsOfReading"
+authors = [
+    "Rinko1231",
+    "Tapio"
+]
+displayTest = "IGNORE_ALL_VERSION"
+description = "In the corner or on the corner, that's a question——I mean, the bookshelf."
