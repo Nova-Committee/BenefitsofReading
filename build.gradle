@@ -20,7 +20,7 @@ group = 'committee.nova.benefitsofreading.forge'
 version = '1.0.0'
 
 java {
-    archivesBaseName = 'benefitsofreading'
+    archivesBaseName = 'BenefitsofReading-Forge-1.20.X'
     toolchain.languageVersion = JavaLanguageVersion.of(17)
 }
 
