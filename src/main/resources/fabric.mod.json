@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "benefitsofreading",
+  "version": "${version}",
+  "name": "Benefits of Reading",
+  "description": "In the corner or on the corner, that's a question——I mean, the bookshelf.",
+  "authors": [
+    "Rinko1231",
+    "Tapio"
+  ],
+  "license": "AGPL-3.0",
+  "environment": "*",
+  "mixins": [
+    "benefitsofreading.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "*"
+  }
+}

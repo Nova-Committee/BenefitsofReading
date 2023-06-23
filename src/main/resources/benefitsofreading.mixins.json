@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "committee.nova.benefitsofreading.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "MixinEnchantmentScreenHandler"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
