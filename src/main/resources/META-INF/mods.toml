@@ -4,7 +4,7 @@ license = "GNU AGPL 3.0"
 [[mods]]
 modId = "benefitsofreading"
 version = "${file.jarVersion}"
-displayName = "BenefitsofReading"
+displayName = "Benefits of Reading"
 authors = [
     "Rinko1231",
     "Tapio"
